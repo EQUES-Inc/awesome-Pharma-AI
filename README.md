@@ -19,7 +19,6 @@
 
 ||  |  |  | |
 |----------|----------|----------|----------|----------|
-
 | 2025.11 | Human level and beyond | Benchmarking prescription review | [preprint](https://arxiv.org/abs/2512.02024) | Yang et al., |
 | 2025.10 | JPharmatron | pharmaceutical-specific Japanese LLM | [website](https://eques.co.jp/news/250618/), [paper](https://arxiv.org/pdf/2505.16661) | EQUES Inc. |
 | 2025.4 | PharmAgents | drug discovery agent | [paper](https://arxiv.org/abs/2503.22164), [blog](https://zenn.dev/eques/articles/6c10a9c30807d4) | Tsinghua Univ. etc.|
