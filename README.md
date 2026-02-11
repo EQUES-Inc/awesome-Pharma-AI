@@ -4,6 +4,7 @@
 
 |Date| Pharma side | AI side | contents | links | misc. |
 |----------|----------|----------|----------|----------|----------|
+| 2026.2 | 武田薬品 | lambic | AI創薬探索 | [link](https://www.iambic.ai/post/iambic-announces-collaboration-with-takeda) |
 | 2025.8 | 武田薬品 |  | AI需要予測 | [link](https://www.takeda.com/jp/newsroom/local-newsreleases/2025/takeda-japan-implements-ai-driven-demand-forecasting-en/) |
 | 2025.6 | FDA | | AIツール | [link](https://www.fda.gov/news-events/press-announcements/fda-launches-agency-wide-ai-tool-optimize-performance-american-people) |
 | 2025.4 | なごみ薬局 | Llama3.3 | 「AIによる処方箋の確認」「患者さんへの自動説明支援」「在庫の最適管理」などの実証実験 | [blog](https://nagomipharmacy.co.jp/5660/) |
